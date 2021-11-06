@@ -1,0 +1,5 @@
+Olá!
+
+Coloque estes arquivos dentro de uma pasta de seu projeto e utilize os métodos do arquivo PagSeguroAPI.cs
+
+Vlw! Abraço.
